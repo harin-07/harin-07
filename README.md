@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Harin
 
-<!--
-**harin-07/harin-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Embedded Systems Engineer in the Making | ECE Student | Tech Enthusiast
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Embedded+Systems+Developer;Firmware+%26+Microcontroller+Enthusiast;Arduino+%7C+ARM+%7C+C%2FC%2B%2B;IoT+%7C+Electronics+%7C+Automation;Building+Hardware+%2B+Software+Solutions" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Engineering student passionate about **Embedded Systems**
+- 🔧 Interested in **Firmware Development & Microcontrollers**
+- 💻 Strong interest in **Embedded C / C++**
+- 🤖 Exploring **IoT, Automation & Intelligent Systems**
+- ⚡ Building projects that connect **hardware + software**
+- 📚 Continuously learning new embedded technologies
+- 🎯 Goal: Become a skilled **Embedded Systems / Firmware Engineer**
+
+---
+
+## 🛠️ Embedded Skills
+
+### 💻 Programming
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### 🔌 Embedded & Electronics
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microcontrollers-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-00A98F?style=for-the-badge"/>
+</p>
+
+### 📡 Communication Protocols
+
+```text
+UART       ████████████████████
+SPI        ██████████████████
+I²C        ██████████████████
+GPIO       ████████████████████
+ADC / DAC  █████████████████
+PWM        ██████████████████
