@@ -1,6 +1,6 @@
- #                        👋 Hi, I'm Harin
+<h1 align="center">👋 Hi, I'm Harin</h1>
 
-###          🔧 Embedded Systems Engineer in the Making | ECE Student | Tech Enthusiast
+<h3 align="center">🔧 Embedded Systems Engineer in the Making | ECE Student | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Embedded+Systems+Developer;Firmware+%26+Microcontroller+Enthusiast;Arduino+%7C+ARM+%7C+C%2FC%2B%2B;IoT+%7C+Electronics+%7C+Automation;Building+Hardware+%2B+Software+Solutions" />
